@@ -1,2 +1,15 @@
 /EjerciciosDeClase/Clase2/Publicaciones_v2/nbproject/private/
 /EjerciciosDeClase/Clase2/Publicaciones_v03/nbproject/private/
+
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
