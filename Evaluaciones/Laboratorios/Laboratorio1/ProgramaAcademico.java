@@ -1,6 +1,6 @@
 
 
-public abstract class ProgramaAcademico{
+public abstract class ProgramaAcademico implements IConsultable{
 	private static Integer indice=1; //identificador num CORRELATIVO, compartido por todas sus instancias
 	protected Integer idProgramaAcademico;
 	protected String nombre;
@@ -21,6 +21,6 @@ public abstract class ProgramaAcademico{
 		indice++;
 	}
 	
-	public abstract String consultarDatos();    
+	//public abstract String consultarDatos();    -> similar a un metodo virtual en C++
 	
 }
