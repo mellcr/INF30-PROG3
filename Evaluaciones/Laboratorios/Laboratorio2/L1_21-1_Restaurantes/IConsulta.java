@@ -1,0 +1,4 @@
+
+interface IConsulta{
+	String consultarDatos(); 
+}
