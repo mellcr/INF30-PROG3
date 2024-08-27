@@ -46,22 +46,51 @@ public class Vuelo{
 		this.aeropuertoDestino = aeropuerto; 
 	}	 
 		 
+	// public String devolverInformacion() {
+        //Formateadores
+        // SimpleDateFormat formatFecha = new SimpleDateFormat("dd-MM-yyyy");
+        // DateTimeFormatter formatTime = DateTimeFormatter.ofPattern("HH:mm");
+        
+        //Formatear fecha y horas
+        // String fechaFormateada = formatFecha.format(fechaSalida);
+        // String horaSalidaFormateada = horaSalida.format(formatTime);
+        // String horaLlegadaFormateada = horaLlegada.format(formatTime);
+        
+        //Construir la cadena final usando concatenación de cadenas
+        // String cad = "Datos del vuelo " + codigo + " con ID: " + identificador + "\n"; 
+        // cad += "--------------------------------------------------------------------\n";
+        // cad += "Fecha: " + fechaFormateada + " - " +
+               // "Hora Salida: " + horaSalidaFormateada + " - " +
+               // "Hora Llegada: " + horaLlegadaFormateada +  "\n";
+			   
+		// cad += avion.consultarDatos();	
+        // cad += remolque.consultarDatos();
+		// cad += "--------------------------------------------------------------------\n";
+		// cad+= "DESDE:\n";
+		// cad+= aeropuertoSalida.consultarDatos();
+		// cad += "--------------------------------------------------------------------\n";
+		// cad+= "HACIA:\n";
+		// cad+= aeropuertoDestino.consultarDatos();
+		
+        // return cad; 
+    // }
+	
 	public String devolverInformacion() {
         // Formateadores
         SimpleDateFormat formatFecha = new SimpleDateFormat("dd-MM-yyyy");
-        DateTimeFormatter formatTime = DateTimeFormatter.ofPattern("HH:mm");
+        //DateTimeFormatter formatTime = DateTimeFormatter.ofPattern("HH:mm");
         
         // Formatear fecha y horas
         String fechaFormateada = formatFecha.format(fechaSalida);
-        String horaSalidaFormateada = horaSalida.format(formatTime);
-        String horaLlegadaFormateada = horaLlegada.format(formatTime);
+        //String horaSalidaFormateada = horaSalida.format(formatTime);
+        //String horaLlegadaFormateada = horaLlegada.format(formatTime);
         
         // Construir la cadena final usando concatenación de cadenas
         String cad = "Datos del vuelo " + codigo + " con ID: " + identificador + "\n"; 
         cad += "--------------------------------------------------------------------\n";
         cad += "Fecha: " + fechaFormateada + " - " +
-               "Hora Salida: " + horaSalidaFormateada + " - " +
-               "Hora Llegada: " + horaLlegadaFormateada +  "\n";
+               "Hora Salida: " + horaSalida.toString() + " - " +
+               "Hora Llegada: " + horaLlegada.toString() +  "\n";
 			   
 		cad += avion.consultarDatos();	
         cad += remolque.consultarDatos();
@@ -74,5 +103,4 @@ public class Vuelo{
 		
         return cad; 
     }
-	
 }
