@@ -1,0 +1,3 @@
+enum TipoExamen{
+	ECOGRAFIA, RESONANCIA, TOMOGRAFIA, RAYOS_X
+}

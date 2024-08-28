@@ -1,0 +1,3 @@
+enum EstadoAtencion{
+	PROGRAMADA, CONFIRMADA, EN_CURSO, COMPLETADA
+}
