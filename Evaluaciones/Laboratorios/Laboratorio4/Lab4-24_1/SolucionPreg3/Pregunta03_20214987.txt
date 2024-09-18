@@ -1,0 +1,11 @@
+javac com/medicalsoft/rrhh/model/*.java
+jar cf medicalsoftRRHHModel.jar com/medicalsoft/rrhh/model/*.class
+javac -cp medicalsoftRRHHModel.jar; com/medicalsoft/infraestructura/model/*.java
+jar cf medicalsoftInfraModel.jar com/medicalsoft/infraestructura/model/*.class
+javac -cp medicalsoftRRHHModel.jar;medicalsoftInfraModel.jar; com/medicalsoft/servicios/model/*.java
+jar cf medicalsoftServModel.jar com/medicalsoft/servicios/model/*.class
+javac -cp 
+medicalsoftRRHHModel.jar;medicalsoftInfraModel.jar;medicalsoftServModel.jar; com/medicalsoft/program/main/*.java
+echo Class-Path: medicalsoftRRHHModel.jar medicalsoftInfraModel.jar medicalsoftServModel.jar > MANIFEST.MF
+echo Main-Class: com.medicalsoft.program.main.Principal >> MANIFEST.MF
+jar cfm medicalsoftPrincipal.jar MANIFEST.MF com/medicalsoft/program/main/*.class

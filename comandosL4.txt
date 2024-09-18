@@ -1,0 +1,21 @@
+########################## PREGUNTA 2 ##########################################
+
+javac com/medicalsoft/rrhh/model/*.java com/medicalsoft/infraestructura/model/*.java 
+com/medicalsoft/servicios/model/*.java
+
+
+#Compila y ejecuta todo
+
+javac com/medicalsoft/rrhh/model/*.java com/medicalsoft/infraestructura/model/*.java com/medicalsoft/servicios/model/*.java com/medicalsoft/program/main/*.java
+
+(este no me funcionó en mi lap)
+java -cp com/medicalsoft/rrhh/model/*.class;com/medicalsoft/infraestructura/model/*.class; com/medicalsoft/servicios/model/*.class; com/medicalsoft/program/main/Principal
+
+
+java -cp com\medicalsoft\rrhh\model;com\medicalsoft\infraestructura\model;com\medicalsoft\servicios\model; com.medicalsoft.program.main.Principal
+
+
+########################## PREGUNTA 3 ##########################################
+
+
+
