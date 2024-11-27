@@ -1,0 +1,7 @@
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\bin\Debug\GameSoftBO.dll.config
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\bin\Debug\GameSoftBO.dll
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\bin\Debug\GameSoftBO.pdb
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\obj\Debug\GameSoftBO.csproj.AssemblyReference.cache
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\obj\Debug\GameSoftBO.csproj.CoreCompileInputs.cache
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\obj\Debug\GameSoftBO.dll
+C:\Users\mell1\Desktop\PUCP\6toCiclo\INF30 - PRROG 3\Evaluaciones\Laboratorios\Laboratorio14\Cliente\GameSoftWA\GameSoftBO\obj\Debug\GameSoftBO.pdb

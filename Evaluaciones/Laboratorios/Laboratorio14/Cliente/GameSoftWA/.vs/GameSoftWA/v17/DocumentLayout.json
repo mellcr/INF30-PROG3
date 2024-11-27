@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|c:\\users\\mell1\\desktop\\pucp\\6tociclo\\inf30 - prrog 3\\evaluaciones\\laboratorios\\laboratorio14\\cliente\\gamesoftwa\\gamesoftbo\\videojuegobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|solutionrelative:gamesoftbo\\videojuegobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\gamesoftwa\\listarvideojuegos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|solutionrelative:gamesoftwa\\listarvideojuegos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|c:\\users\\mell1\\desktop\\pucp\\6tociclo\\inf30 - prrog 3\\evaluaciones\\laboratorios\\laboratorio14\\cliente\\gamesoftwa\\gamesoftwa\\registrarvideojuego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|solutionrelative:gamesoftwa\\registrarvideojuego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|c:\\users\\mell1\\desktop\\pucp\\6tociclo\\inf30 - prrog 3\\evaluaciones\\laboratorios\\laboratorio14\\cliente\\gamesoftwa\\gamesoftwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|solutionrelative:gamesoftwa\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|c:\\users\\mell1\\desktop\\pucp\\6tociclo\\inf30 - prrog 3\\evaluaciones\\laboratorios\\laboratorio14\\cliente\\gamesoftwa\\gamesoftbo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|solutionrelative:gamesoftbo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\gamesoftwa\\registrarvideojuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|solutionrelative:gamesoftwa\\registrarvideojuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\gamesoftwa\\listarvideojuegos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9789E43-8631-4321-BC5E-75092C2068DE}|GameSoftWA\\GameSoftWA.csproj|solutionrelative:gamesoftwa\\listarvideojuegos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\gamesoftbo\\generobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B347C148-1F92-40D4-9D5A-D3FF17CD204F}|GameSoftBO\\GameSoftBO.csproj|solutionrelative:gamesoftbo\\generobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\Web.config",
+              "RelativeDocumentMoniker": "GameSoftWA\\Web.config",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\Web.config",
+              "RelativeToolTip": "GameSoftWA\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T08:02:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\app.config",
+              "RelativeDocumentMoniker": "GameSoftBO\\app.config",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\app.config",
+              "RelativeToolTip": "GameSoftBO\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T08:01:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideojuegoBO.cs",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\VideojuegoBO.cs",
+              "RelativeDocumentMoniker": "GameSoftBO\\VideojuegoBO.cs",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\VideojuegoBO.cs",
+              "RelativeToolTip": "GameSoftBO\\VideojuegoBO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:39:39.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarVideojuego.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\RegistrarVideojuego.aspx.cs",
+              "RelativeDocumentMoniker": "GameSoftWA\\RegistrarVideojuego.aspx.cs",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\RegistrarVideojuego.aspx.cs",
+              "RelativeToolTip": "GameSoftWA\\RegistrarVideojuego.aspx.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIAwwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:00:49.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneroBO.cs",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\GeneroBO.cs",
+              "RelativeDocumentMoniker": "GameSoftBO\\GeneroBO.cs",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftBO\\GeneroBO.cs",
+              "RelativeToolTip": "GameSoftBO\\GeneroBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:01:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarVideojuegos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\ListarVideojuegos.aspx.cs",
+              "RelativeDocumentMoniker": "GameSoftWA\\ListarVideojuegos.aspx.cs",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\ListarVideojuegos.aspx.cs",
+              "RelativeToolTip": "GameSoftWA\\ListarVideojuegos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:03:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarVideojuegos.aspx",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\ListarVideojuegos.aspx",
+              "RelativeDocumentMoniker": "GameSoftWA\\ListarVideojuegos.aspx",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\ListarVideojuegos.aspx",
+              "RelativeToolTip": "GameSoftWA\\ListarVideojuegos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T15:04:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarVideojuego.aspx",
+              "DocumentMoniker": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\RegistrarVideojuego.aspx",
+              "RelativeDocumentMoniker": "GameSoftWA\\RegistrarVideojuego.aspx",
+              "ToolTip": "C:\\Users\\mell1\\Desktop\\PUCP\\6toCiclo\\INF30 - PRROG 3\\Evaluaciones\\Laboratorios\\Laboratorio14\\Cliente\\GameSoftWA\\GameSoftWA\\RegistrarVideojuego.aspx",
+              "RelativeToolTip": "GameSoftWA\\RegistrarVideojuego.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T15:00:39.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

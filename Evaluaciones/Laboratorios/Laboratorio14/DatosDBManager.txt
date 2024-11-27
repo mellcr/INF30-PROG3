@@ -1,0 +1,10 @@
+--------------------------------------------
+Identificador: labs-1inf30-prog3
+--------------------------------------------
+hostname: labs-1inf30-prog3.cqhqbvdmqhck.us-east-1.rds.amazonaws.com
+user_name: admin
+password: labs1inf20214987
+nombre de la bd inicial: laboratorio09 
+--------------------------------------------
+
+

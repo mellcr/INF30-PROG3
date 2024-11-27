@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="services.gamesoft.pucp.edu.pe" targetNamespace="services.gamesoft.pucp.edu.pe" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="listarTodosGeneros" type="tns:listarTodosGeneros" />
+  <xs:element name="listarTodosGenerosResponse" type="tns:listarTodosGenerosResponse" />
+  <xs:complexType name="listarTodosGeneros">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarTodosGenerosResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:genero" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="genero">
+    <xs:sequence>
+      <xs:element name="activo" type="xs:boolean" />
+      <xs:element name="idGenero" type="xs:int" />
+      <xs:element minOccurs="0" name="nombre" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="videojuegos" nillable="true" type="tns:videojuego" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="videojuego">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="clasificacion" type="tns:clasificacion" />
+      <xs:element name="costoDesarrollo" type="xs:double" />
+      <xs:element minOccurs="0" name="fechaLanzamiento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="foto" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="genero" type="tns:genero" />
+      <xs:element name="idVideojuego" type="xs:int" />
+      <xs:element minOccurs="0" name="nombre" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="clasificacion">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="EVERYONE" />
+      <xs:enumeration value="TEEN" />
+      <xs:enumeration value="MATURE" />
+      <xs:enumeration value="ADULTSONLY" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
